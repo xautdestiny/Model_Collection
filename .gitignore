@@ -1,3 +1,4 @@
 *.h5
 *.hdf5
 *.onnx
+__pycache__/
